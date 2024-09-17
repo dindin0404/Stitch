@@ -1,0 +1,37 @@
+#Header{
+    color:black;
+    text-align:center;
+    padding-left:0px;
+    font-size:30px;
+    padding-top:0px;
+    font-style:bold;
+    padding-bottom:0px;
+    
+}
+
+#content{
+    color:pink;
+    font-size:16px;
+    text-align:center;
+    padding-left:15px;
+    padding-right:0px;
+    padding-bottom:0px;
+    position:absolute;
+    padding-top:0px;
+}
+
+#image{
+    background-color:pink;
+    width:480px;
+    height:500px;
+    padding-top:0px;
+    padding-bottom:0px;
+    
+}
+
+#footer-1{
+    font-size:16px;
+    color:white;
+    text-align:center;
+    background-color:black;
+}
